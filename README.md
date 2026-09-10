@@ -28,4 +28,5 @@ The analysis includes:
 The analysis uses a June 2022 national survey conducted by the Marist Center for Sports Communication with 573 adult respondents.
 
 ## Full Analysis
-The complete Jupyter Notebook in this repository contains the Python code, visualizations, statistical analysis, predictive modeling, and interpretation of the results.
+**[View the Complete Jupyter Notebook](https://github.com/sjani-sudo/title-ix-public-support-analysis/blob/main/Analyzing%20and%20Predicting%20Public%20Support%20for%20Title%20IX.ipynb)**
+The complete notebook contains the Python code, visualizations, statistical analysis, predictive modeling, and interpretation of the results.
